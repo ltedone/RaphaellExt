@@ -1,7 +1,7 @@
 /*
  * Drag and drop for Raphael elements.
  *
- * Requires jQuery, to bind mouse events on document.
+ * Requires ExtJS, to bind mouse events on document.
  *
  * Original Author: Gabe Hollombe. Rewritten several times over by Clifford Heath.
  * (c) Copyright. Subject to MIT License.
