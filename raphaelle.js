@@ -1,4 +1,4 @@
-/*a
+/*
  * Drag and drop for Raphael elements.
  *
  * Requires ExtJS, to bind mouse events on document.
