@@ -6,7 +6,7 @@
  * Original Author: Gabe Hollombe. Rewritten several times over by Clifford Heath.
  * (c) Copyright. Subject to MIT License.
  *
- * You need to include jquery and Raphael first.
+ * You need to include ExtJS and Raphael first.
  *
  * When you call draggable() on any Raphael object, it becomes a handle that can start a drag.
  * A mousedown on the handle followed by enough motion causes a drag to start.
